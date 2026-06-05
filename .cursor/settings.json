@@ -1,0 +1,10 @@
+{
+  "plugins": {
+    "huggingface-skills": {
+      "enabled": true
+    },
+    "figma": {
+      "enabled": true
+    }
+  }
+}
